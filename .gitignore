@@ -69,3 +69,6 @@ venv/
 *.user
 *.iml
 *.sw*
+
+# Extra
+.DS_Store
